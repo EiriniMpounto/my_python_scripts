@@ -1,3 +1,5 @@
+'Author: Irene Bounto'
+
 import turtle
 
 turtle.speed(3)
